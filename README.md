@@ -1,3 +1,6 @@
+# App Distritution - Follow this link
+https://appdistribution.firebase.dev/i/d98d8be715fcb9c3
+
 # Tech Exam: Software Engineering - Flutter or Golang position
 
 Do not be serious, we just want to know more about you. 
